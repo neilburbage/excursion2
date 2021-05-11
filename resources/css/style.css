@@ -17,7 +17,7 @@ body {
     font-weight: 300;
     font-size: 42;
     color:burlywood;
-    
+
 }
 .header--sub-header {
     font-size: 21;
@@ -31,3 +31,10 @@ body {
     color:cyan;
    
 }
+
+    /* FOOTER */
+
+    .footer--copy {
+        font-size: 21px;
+        color:#222222;
+    }
